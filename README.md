@@ -1,0 +1,2 @@
+# rsdis
+Rust Dictionary Server
